@@ -1,0 +1,5 @@
+John Manager  sales   25000
+Ram clerk account     20000
+David Manager account 15000
+Josie Manager  sales  10000
+An Manager account    20000
